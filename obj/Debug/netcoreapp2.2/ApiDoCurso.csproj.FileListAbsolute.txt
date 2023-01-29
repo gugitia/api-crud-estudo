@@ -1,0 +1,32 @@
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\bin\Debug\netcoreapp2.2\ApiDoCurso.deps.json
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\bin\Debug\netcoreapp2.2\ApiDoCurso.runtimeconfig.json
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\bin\Debug\netcoreapp2.2\ApiDoCurso.runtimeconfig.dev.json
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\bin\Debug\netcoreapp2.2\ApiDoCurso.dll
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\bin\Debug\netcoreapp2.2\ApiDoCurso.pdb
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.csproj.AssemblyReference.cache
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorAssemblyInfo.cache
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorAssemblyInfo.cs
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.AssemblyInfo.cs
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorTargetAssemblyInfo.cache
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.dll
+C:\Users\gusta\Desktop\tentativa 277\ApiDoCurso\obj\Debug\netcoreapp2.2\ApiDoCurso.pdb
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\ApiDoCurso.deps.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\ApiDoCurso.runtimeconfig.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\ApiDoCurso.runtimeconfig.dev.json
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\ApiDoCurso.dll
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\bin\Debug\netcoreapp2.2\ApiDoCurso.pdb
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.csproj.AssemblyReference.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.AssemblyInfoInputs.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.AssemblyInfo.cs
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorAssemblyInfo.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorAssemblyInfo.cs
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.dll
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.pdb
+C:\Users\Gustavo\OneDrive\Área de Trabalho\primeiraapi-master\obj\Debug\netcoreapp2.2\ApiDoCurso.genruntimeconfig.cache

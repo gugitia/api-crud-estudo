@@ -1,0 +1,47 @@
+
+#caixa {
+    width: 350px;
+    height: 300px;
+   margin: 0 auto;
+   margin-top: 100px;
+   border: solid 2px black;
+   border-radius: 8px;
+   text-align: center;
+   background-color: rgb(81, 251, 251);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#lili {
+    border: solid 2px black;
+    border-radius: 8px;
+    text-align: center;
+    background-color: rgb(81, 251, 251);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#txt, #doc, #atv, #tpf{
+    padding-left: 30%;
+    
+}
+
+input {
+    width: 200px;
+}
+
+#env {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+#env:active {
+    background-color: darkcyan;
+}
+
+#lista {
+    position: absolute;
+    margin-top: -390px;
+}
+#busca {
+    margin-top: 20px;
+    position: absolute;
+}

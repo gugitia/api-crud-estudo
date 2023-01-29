@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>busca</title>
+        <link rel="Stylesheet" href="Css/Stylesheet.css">
+        <script src="Js/Script.js"></script>
+    </head>
+    <body>
+    
+        <h2>Pesquisa</h2>
+        <input type="text" id="pesqui">
+        <input type="submit" onclick ="pesquisar()">
+        <table>
+            <tr>
+                <td>Nome</td>
+                <td>Documento</td>
+                <td>id</td>
+            </tr>
+            <tr>
+                <td id="name"></td>
+                <td id="documento"></td>
+                <td id="id"></td>
+            </tr>
+
+        </table>
+        <div id="msg"></div>
+        
+
+
+
+    <a href="Index.html"><button id="Cadastro">Cadastro</button></a>
+    <a href="Lista.html"><button >Ver todos</button></a>
+    <button onclick="editar()">editar</button>
+    <button onclick="editado()">pronto</button>
+    <button onclick="excluir()">deletar</button>
+    </body>
+</html>
